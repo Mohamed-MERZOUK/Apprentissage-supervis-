@@ -4,7 +4,6 @@
 1.1- Analyse univariée et bivariée
 1.2- Application des techniques de classification
 1.3- Comparaison des algorithmes 
-
 2- Spiral
 2.1- Analyse univariée et bivariée
 2.2- Application des techniques de classification
