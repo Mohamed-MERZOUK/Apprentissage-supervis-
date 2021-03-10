@@ -1,1 +1,1 @@
-# Apprentissage-supervis-
+# Apprentissage-supervisé
